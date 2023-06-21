@@ -74,8 +74,8 @@ h1, h2, h3, h4, h5, h6, p {
     background-attachment: fixed;
 }
 .bg-cover-5{
-    background: linear-gradient(79deg, rgba(255, 255, 255, 0.97) 10%, rgba(213, 217, 231, 0.92) 55%, rgba(231, 232, 236, 0.06) 80%), url("../img/resource/Singapore/singapore-city-min.jpg");
-    background-position: center;
+    background: linear-gradient(79deg, rgba(255, 255, 255, 0.97) 10%, rgba(213, 217, 231, 0.92) 55%, rgba(231, 232, 236, 0.06) 80%), url("../img/resource/dubai/dubai_5.jpg");
+    background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
